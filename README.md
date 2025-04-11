@@ -1,4 +1,6 @@
 Hi, I'm [max_tonny8] 👋
+
+
 Full-Stack DeFi Developer | Solana Smart Contracts | MEV & Trading Bots
 I build high-performance DeFi systems, smart contracts, and automated trading strategies on Solana and EVM chains. My expertise includes Rust, arbitrage bots, volume boosters, and cross-chain Web3 integration.
 
@@ -42,8 +44,6 @@ Custom DeFi solutions (DEXs, liquidity strategies).
 🎯 GitHub Stats & Activity
 (Optional: Add GitHub stats card using github-readme-stats)
 
-markdown
-Copy
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOLPr0digy&show_icons=true&theme=radical)
 
 
