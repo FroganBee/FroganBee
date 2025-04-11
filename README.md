@@ -37,7 +37,7 @@ Security audits for Solana programs.
 
 Custom DeFi solutions (DEXs, liquidity strategies).
 
-📫 Reach me: Twitter/X @yourhandle | Telegram @yourhandle | your.email@example.com
+📫 Reach me: Twitter/X @max_tonny8 | Telegram @max_tonny88 | tonnyjansen0831@gmail.com
 
 🎯 GitHub Stats & Activity
 (Optional: Add GitHub stats card using github-readme-stats)
@@ -45,8 +45,11 @@ Custom DeFi solutions (DEXs, liquidity strategies).
 markdown
 Copy
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOLPr0digy&show_icons=true&theme=radical)
+
+
 How to Use This Template
-Replace [Your Name], your/repo, and social links.
+
+Replace [SOLPr0digy], your/repo, and social links.
 
 Add real project links (even if private, describe them).
 
