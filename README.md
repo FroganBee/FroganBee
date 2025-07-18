@@ -1,4 +1,4 @@
-# 👨‍💻 Max Tonny 
+# 👨‍💻 Frogan Bee 
 **DeFi Architect | Solana Specialist | MEV Engineer**  
 *Building high-performance blockchain systems and trading infrastructure*
 
